@@ -1,0 +1,33 @@
+{
+	"name" : "innova/angular-uisortable",
+	"description" : "AngularJS UI Sortable Symfony 2 bundle",
+	"type" : "library",
+	"authors" : [{
+			"name" : "Axel Penin",
+			"email" : "axel.penin@u-grenoble3.fr"
+		}
+	],
+	"keywords" : [
+		"angular",
+		"ui-sortable",
+		"symfony2",
+		"jquery",
+		"jquery-ui"
+	],
+	"homepage" : "http://github.com/InnovaLangues/AngularUISortableBundle",
+	"license" : [
+		"MIT"
+	],
+	"require" : {
+		"symfony/symfony" : "2.*",
+		"php" : ">=5.3.0",
+		"symfony/framework-bundle" : "2.*",
+		"innova/angularjs" : "dev-master"
+	},
+	"autoload" : {
+		"psr-0" : {
+			"Innova\\AngularUISortableBundle" : "."
+		}
+	},
+	"target-dir" : "Innova/AngularUISortableBundle"
+}
