@@ -6,7 +6,7 @@ Symfony 2 bundle which provides Angular JS directive to add sortable feature.
 
 Install with composer :
 	
-	$ composer require "innova/angular-ui-sortable-bundle" "1.0"
+	$ composer require "innova/angular-ui-sortable-bundle" "1.*"
 
 ## Authors
 
