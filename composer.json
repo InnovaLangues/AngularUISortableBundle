@@ -1,5 +1,5 @@
 {
-	"name" : "innova/angular-uisortable",
+	"name" : "innova/angular-ui-sortable-bundle",
 	"description" : "AngularJS UI Sortable Symfony 2 bundle",
 	"type" : "library",
 	"authors" : [{
